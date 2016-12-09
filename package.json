@@ -1,0 +1,26 @@
+{
+  "name": "sketchin",
+  "version": "1.0.0",
+  "description": "Irina's sketchnotes over space and time continium",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lrlna/sketchin.git"
+  },
+  "keywords": [
+    "sketchnotes",
+    "javascript",
+    "node",
+    "unix",
+    "drawing"
+  ],
+  "author": "Irina Shestak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lrlna/sketchin/issues"
+  },
+  "homepage": "https://github.com/lrlna/sketchin#readme"
+}
