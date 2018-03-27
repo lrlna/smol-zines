@@ -1,4 +1,4 @@
-# MongoDB Basics
+## MongoDB Basics
 
 
 mmap used to be the default storage for mongodb, here is how it works:
