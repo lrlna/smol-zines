@@ -10,8 +10,8 @@ more info in [zee docs](https://docs.mongodb.com/manual/core/wiredtiger/)
 
 a lil bit on replication! find out more from [the docs](https://docs.mongodb.com/manual/replication/)
 
-![replication](/guides/img/mongodb/replicaiton.jpg)
-![replication-failover](/guides/img/mongodb/replicaiton-failover.jpg)
+![replication](/guides/img/mongodb/replication.jpg)
+![replication-failover](/guides/img/mongodb/replication-failover.jpg)
 
 and a bit more on sharding. as usual, more in [those docs](https://docs.mongodb.com/manual/sharding/)
 ![sharding](/guides/img/mongodb/sharding.jpg)
