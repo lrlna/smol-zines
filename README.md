@@ -1,9 +1,11 @@
 ## SKETCHIN'
 
-Oh hai, thanks for checkin' in. This repo has all them cool sketchnotes (or the ones that turned out nice) that I've been putting together. 
+Oh hai, thanks for checkin' in. This repo has all them cool sketchnotes (or the
+ones that turned out nice) that I've been putting together. 
 
-There are currently only [guides](https://github.com/lrlna/sketchin/tree/master/guides) and they will be linked up to their initial sources. You may eventually see conference sketchnotes as well, so be on the lookout ^_^
-
+There are currently only
+[guides](https://github.com/lrlna/sketchin/tree/master/guides) and they will be
+linked up to their initial sources. 
 
 Hope you enjoy! (((ೕ( ･ㅂ･ )و )))
 
@@ -19,3 +21,10 @@ Hope you enjoy! (((ೕ( ･ㅂ･ )و )))
 - [libsodium](https://github.com/lrlna/sketchin/blob/master/guides/libsodium.md)
 - [mongodb basics](https://github.com/lrlna/sketchin/blob/master/guides/mongodb-basics.md)
 - [tracing](https://github.com/lrlna/sketchin/blob/master/guides/tracing.md)
+
+## Zines
+Zines zines zines! These will usually be added here as images. If you'd like to
+print these, I'll add a drive link to a PDF. The instructions to print them,
+can also be [found in this repo](./zines/instructions.md)
+
+- [Data Ownership in Rust](./zines/data-ownership.md)
