@@ -28,3 +28,4 @@ print these, I'll add a drive link to a PDF. The instructions to print them,
 can also be [found in this repo](./zines/instructions.md)
 
 - [Data Ownership in Rust](./zines/data-ownership.md)
+- [HTTP/2](./zines/http2.md)
