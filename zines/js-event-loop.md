@@ -8,4 +8,6 @@ More reading material:
 
 Printing instructions are [here](./instructions.md).
 
+_EDIT:_ The original version had Message Queue listed as LIFO (Last In First Out), and the Call Stack listed as FIFO (First In First Out). This is indeed wrong. Message Queue is in fact *FIFO*, and the Call Stack if *LIFO*.
+
 ![js event loop](./img/js-event-loop.png)
