@@ -34,3 +34,5 @@ can also be [found in this repo](./zines/instructions.md)
 - [Async Rust](./zines/async-rust.md)
 - [MongoDB 101](./zines/mongodb101.md)
 - [Rust + Wasm](./zines/rust-wasm.md)
+- [A Reference on Deref, AsRef and
+  Borrow](./zines/reference-on-deref-asref-borrow.md)
