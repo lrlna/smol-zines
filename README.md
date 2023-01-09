@@ -23,6 +23,7 @@ can also be [found in this repo](./zines/instructions.md)
 - [Rust + Wasm](./zines/rust-wasm.md)
 - [A Reference on Deref, AsRef and Borrow](./zines/reference-on-deref-asref-borrow.md)
 - [RUST! #[proc_macros]](./zines/rust-proc-macros.md)
+- [Complete Compute Gibberish](./zines/complete-comput-gibberish.md)
 
 ## Sketchnotes
 
